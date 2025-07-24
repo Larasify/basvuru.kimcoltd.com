@@ -1,5 +1,5 @@
 {
     "redirects": [
-        { "source": "/hey", "destination": "https://forms.gle/6ySFjAhKodXcZ7z8A" }
+        { "source": "/", "destination": "https://forms.gle/6ySFjAhKodXcZ7z8A" }
     ]
 }
